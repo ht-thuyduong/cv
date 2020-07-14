@@ -99,7 +99,7 @@ body {
 
 /* 1.2 Default Animations */
 a {
-	color:#1fb5ac;
+	color:#eb974a;
 	-webkit-transition: all .25s ease;
 	-moz-transition: all .25s ease;
 	-ms-transition: all .25s ease;
@@ -231,8 +231,8 @@ button:focus, button:active:focus, button.active:focus,
 
 /* 2.9 Resume Download Button */
 .btn.download-btn {
-	background: #16a085;
-	color:#FFF;
+	background: #eb974a;
+	color:#eb974a;
 	font-weight: 400;
 	text-transform: uppercase;
 	padding-left: 35px;
@@ -266,7 +266,7 @@ button:focus, button:active:focus, button.active:focus,
 	transition: all .25s ease;
 }
 .btn.download-btn:hover {
-	background: #1fb5ac;
+	background: #eb974a;
 }
 
 .btn.download-btn:hover:after {
@@ -342,14 +342,14 @@ button:focus, button:active:focus, button.active:focus,
 	font-size: 14px;
 	font-family: 'Raleway', sans-serif;
 	line-height: 20px;
-	color:#8c8c8c;
+	color:#eb974a;
 	margin-bottom: 10px;
 }
 .post-list .post-item .title a{
-	color:#8c8c8c;
+	color:#eb974a;
 }
 .post-list .post-item .title a:hover {
-	color:#424242;
+	color:#eb974a;
 }
 .post-list .post-item .post-meta {
 	margin: 0;
@@ -365,12 +365,12 @@ button:focus, button:active:focus, button.active:focus,
 .archive-list ul li a {
 	display: block;
 	position: relative;
-	color:#8c8c8c;
+	color:#eb974a;
 	padding: 10px 0px;
 	border-bottom: 1px solid #dddfeb;
 }
 .archive-list ul li a:hover {
-	color:#1fb5ac;
+	color:#eb974a;
 	padding-left: 10px;
 }
 .archive-list ul li a:before {
@@ -396,7 +396,7 @@ button:focus, button:active:focus, button.active:focus,
 	content: "\f099";
 	font-family: FontAwesome;
 	font-size: 25px;
-	color:#1fb5ac;
+	color:#eb974a;
 	position: absolute;
 	left: 0px;
 }
@@ -481,7 +481,7 @@ button:focus, button:active:focus, button.active:focus,
 
 /* 3.1.2 Navigation Items */
 .side-static .nav li a {
-	color:#aeb2b7;
+	color:#eb974a;
 	border-bottom:1px solid #3c3c44;
 	padding:15px;
 }
@@ -575,7 +575,7 @@ button:focus, button:active:focus, button.active:focus,
 	display: block;
 	width: 36px;
 	height: 36px;
-	color:#a6dbd1;
+	color:#eb974a;
 	border:1px solid #FFF;
 	border-radius: 50%;
 	text-align: center;
@@ -589,7 +589,7 @@ button:focus, button:active:focus, button.active:focus,
 	left: 50%;
 	margin-left: -65px;
 	text-align: center;
-	color: #ffffff;
+	color: #eb974a;
 	width: 0;
 	height: 0;
 	overflow: hidden;
@@ -605,7 +605,7 @@ button:focus, button:active:focus, button.active:focus,
 }
 .social-profiles .item a:hover {
 	text-decoration: none;
-	color:#1fb5ac;
+	color:#eb974a;
 }
 .social-profiles .item a:before {
 	font-family: FontAwesome;
@@ -627,7 +627,7 @@ button:focus, button:active:focus, button.active:focus,
 	bottom: -2px;
 	left: -2px;
 	right: -2px;
-	background: #ffffff;
+	background: #eb974a;
 }
 .social-profiles .item a span,
 .social-profiles .item a:after {
@@ -911,11 +911,11 @@ button:focus, button:active:focus, button.active:focus,
 }
 #portfolio-filters .btn.active,
 #portfolio-filters .btn.active:hover{
-	background: #1fb5ac;
+	background: #eb974a;
 	color:#FFF;
 }
 #portfolio-filters .btn:hover {
-	color:#1fb5ac;
+	color:#eb974a;
 }
 #portfolio-filters .btn:first-child {
 	border-top-left-radius: 4px;
@@ -1120,7 +1120,7 @@ a {
 	color:#999999;
 }
 .testislider-control:hover i {
-	color:#1fb5ac;
+	color:#eb974a;
 }
 .carousel .left.testislider-control {
 	left: 40%;
@@ -1274,7 +1274,7 @@ a {
 	font-size: 15px;
 	font-style: italic;
 	font-weight: 500;
-	border-left: 5px solid #1fb5ac;
+	border-left: 5px solid #eb974a;
 	margin-left: 15px;
 }
 
@@ -1326,7 +1326,7 @@ a {
 }
 
 .post-item .link-info {
-	background: #1fb5ac;
+	background: #eb974a;
 	padding: 20px;
 	color:#FFF;
 	position: relative;
@@ -1405,7 +1405,7 @@ a {
 .blog-pagination .pagination > .active > a:focus,
 .blog-pagination .pagination > .active > span:focus {
 	color:#FFF;
-	background-color: #1fb5ac;
+	background-color: #eb974a;
 	border-color:transparent;
 }
 
@@ -1497,7 +1497,7 @@ a {
 }
 .comment-section .your-comment:focus{
 	outline: none;
-	border-color: #1fb5ac;
+	border-color: #eb974a;
 	background: #ffffff;
 }
 .comment-form .row {
@@ -1508,7 +1508,7 @@ a {
 }
 .comment-form .btn {
 	border: 1px solid transparent;
-	background: #1fb5ac;
+	background: #eb974a;
 	color: #FFF;
 	text-transform: uppercase;
 	border-radius: 4px;
@@ -1585,7 +1585,7 @@ a {
 }
 .form-input-group input:focus {
 	outline: none;
-	border-color:#1fb5ac;
+	border-color:#eb974a;
 	background: #FFF;
 }
 .contact-form .your-message {
@@ -1619,11 +1619,11 @@ a {
 .contact-form .your-message:focus {
 	outline: none;
 	background: #FFF;
-	border-color: #1fb5ac;
+	border-color: #eb974a;
 }
 .contact-form .btn {
 	border: 1px solid transparent;
-	background: #1fb5ac;
+	background: #eb974a;
 	color:#FFF;
 	text-transform: uppercase;
 	border-radius: 4px;
@@ -1680,7 +1680,7 @@ a {
 	display: inline-block;
 }
 .social-icons li a {
-	color:#888888;
+	color:#eb974a;
 	display: block;
 	width: 32px;
 	height: 32px;
@@ -1689,8 +1689,8 @@ a {
 	line-height: 32px;
 }
 .social-icons li a:hover{
-	background: #f1f2f7;
-	color: #1fb5ac;
+	background: #eb974a;
+	color: #eb974a;
 }
 .social-icons li a:before {
 	font-family: FontAwesome;
